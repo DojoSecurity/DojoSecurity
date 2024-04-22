@@ -21,7 +21,6 @@ Certified in various aspects of cybersecurity, I have also served as a lecturer,
 * [CVE-2022-40746 IBM](https://www.ibm.com/support/pages/node/6840359)
 * [CVE-2022-35642 IBM](https://www.ibm.com/support/pages/node/6829311)
 * [CVE-2022-30615 IBM](https://www.ibm.com/support/pages/node/6829311)
-
 * [BMC Wall of Fame 2022](https://docs.bmc.com/docs/security/security-wall-of-fame-864104037.html)
 
 ### 🎖️ Certifications
