@@ -5,6 +5,9 @@ Certified in various aspects of cybersecurity, I have also served as a lecturer,
 
 ***
 ### 🔭 Proud Of
+* [CVE-2024-3459 KioWare](https://www.cve.org/CVERecord?id=CVE-2024-3459)
+* [CVE-2024-3460 KioWare](https://www.cve.org/CVERecord?id=CVE-2024-3460)
+* [CVE-2024-3461 KioWare](https://www.cve.org/CVERecord?id=CVE-2024-3461)
 * [CVE-2024-1604 BMC](https://www.cve.org/CVERecord?id=CVE-2024-1604)
 * [CVE-2024-1605 BMC](https://www.cve.org/CVERecord?id=CVE-2024-1605)
 * [CVE-2024-1606 BMC](https://www.cve.org/CVERecord?id=CVE-2024-1606)
