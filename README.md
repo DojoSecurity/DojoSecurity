@@ -5,9 +5,11 @@ Certified in various aspects of cybersecurity, I have also served as a lecturer,
 
 ***
 ### 🔭 Proud Of
+* [CVE-2024-3050 WordPress](https://wpscan.com/vulnerability/04c1581e-fd36-49d4-8463-b49915d4b1ac/)
 * [CVE-2024-3459 KioWare](https://www.cve.org/CVERecord?id=CVE-2024-3459)
 * [CVE-2024-3460 KioWare](https://www.cve.org/CVERecord?id=CVE-2024-3460)
 * [CVE-2024-3461 KioWare](https://www.cve.org/CVERecord?id=CVE-2024-3461)
+* [CVE-2024-2218 WordPress](https://wpscan.com/vulnerability/ecd615f7-946e-45af-a610-0654a243b1dc/)
 * [CVE-2024-1604 BMC](https://www.cve.org/CVERecord?id=CVE-2024-1604)
 * [CVE-2024-1605 BMC](https://www.cve.org/CVERecord?id=CVE-2024-1605)
 * [CVE-2024-1606 BMC](https://www.cve.org/CVERecord?id=CVE-2024-1606)
