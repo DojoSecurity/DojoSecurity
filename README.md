@@ -5,6 +5,8 @@ Certified in various aspects of cybersecurity, I have also served as a lecturer,
 
 ***
 ### 🔭 Proud Of
+* [CVE-2024-50311 Openshift](https://access.redhat.com/security/cve/cve-2024-50311)
+* [CVE-2024-50312 Openshift](https://access.redhat.com/security/cve/cve-2024-50312)
 * [CVE-2024-3050 WordPress](https://wpscan.com/vulnerability/04c1581e-fd36-49d4-8463-b49915d4b1ac/)
 * [CVE-2024-3459 KioWare](https://www.cve.org/CVERecord?id=CVE-2024-3459)
 * [CVE-2024-3460 KioWare](https://www.cve.org/CVERecord?id=CVE-2024-3460)
@@ -29,6 +31,7 @@ Certified in various aspects of cybersecurity, I have also served as a lecturer,
 * [BMC Wall of Fame 2022](https://docs.bmc.com/docs/security/security-wall-of-fame-864104037.html)
 
 ### 🎖️ Certifications
+* [ARTE](https://training.hacktricks.xyz/certificates/e8dfd58b-f116-47eb-947f-7c8fb4038bc9)
 * [OSEP](https://www.credential.net/70bd27eb-9338-4710-bf66-7fcd77926880)
 * [Burp Suite Certified Practitioner](https://portswigger.net/web-security/e/c/905cd83918e61427?utm_source=office&utm_medium=email&utm_campaign=burp-prac-cert-pass-success&utm_content=52.1&tid=ZyvvWjwAn76bJsbtXbD3OWcDMImp4aw6w4xgj5vAHSbH4gxTVnPJ6CeIQoc8_-yU)
 * [CRTO](https://api.eu.badgr.io/public/assertions/LcSc0-HfSv68tKraVgiHCA)
