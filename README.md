@@ -5,6 +5,11 @@ Certified in various aspects of cybersecurity, I have also served as a lecturer,
 
 ***
 ### 🔭 Proud Of
+* [CVE-2025-22274 CyberArk](https://www.cve.org/CVERecord?id=CVE-2025-22274)
+* [CVE-2025-22273 CyberArk](https://www.cve.org/CVERecord?id=CVE-2025-22273)
+* [CVE-2025-22272 CyberArk](https://www.cve.org/CVERecord?id=CVE-2025-22272)
+* [CVE-2025-22271 CyberArk](https://www.cve.org/CVERecord?id=CVE-2025-22271)
+* [CVE-2025-22270 CyberArk](https://www.cve.org/CVERecord?id=CVE-2025-22270)
 * [CVE-2024-50311 Openshift](https://access.redhat.com/security/cve/cve-2024-50311)
 * [CVE-2024-50312 Openshift](https://access.redhat.com/security/cve/cve-2024-50312)
 * [CVE-2024-3050 WordPress](https://wpscan.com/vulnerability/04c1581e-fd36-49d4-8463-b49915d4b1ac/)
