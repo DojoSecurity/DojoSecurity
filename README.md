@@ -5,6 +5,8 @@ Certified in various aspects of cybersecurity, I have also served as a lecturer,
 
 ***
 ### 🔭 Proud Of
+* [CVE-2025-36857 Rapid7](https://www.cve.org/CVERecord?id=CVE-2025-36857)
+* [CVE-2025-11195 Rapid7](https://www.cve.org/CVERecord?id=CVE-2025-11195)
 * [CVE-2025-4951 Rapid7](https://www.cve.org/CVERecord?id=CVE-2025-4951)
 * [CVE-2024-10864 OpenText Advanced Authentication](https://nvd.nist.gov/vuln/detail/CVE-2024-10864)
 * [CVE-2024-10865 OpenText Advanced Authentication ](https://nvd.nist.gov/vuln/detail/CVE-2024-10865)
@@ -43,7 +45,8 @@ Certified in various aspects of cybersecurity, I have also served as a lecturer,
 * [BMC Wall of Fame 2022](https://docs.bmc.com/docs/security/security-wall-of-fame-864104037.html)
 
 ### 📝 Articles
-* https://afine.com/ready_-wasnt-ready-four-critical-vulnerabilities-in-symfonia-edokumenty/ 
+* https://afine.com/ready-wasnt-ready-four-critical-vulnerabilities-in-symfonia-edokumenty
+* https://afine.com/beyond-the-surface-digging-into-cve-2024-10864-cve-2024-10865-in-netiq-advanced-authentication
 
 ### 🎖️ Certifications
 * [ARTE](https://training.hacktricks.xyz/certificates/e8dfd58b-f116-47eb-947f-7c8fb4038bc9)
